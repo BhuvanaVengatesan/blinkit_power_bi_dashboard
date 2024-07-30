@@ -21,7 +21,7 @@ visualization in Power BI.
      }".
 
 3) **Data Visualization**:
-        Generated visualizations to analyze and showcase total sales, average sales, number of items sold, average rating, sales based on fat content, outlets size, outlet location and segments using horizontal bar charts, line charts, pie charts and funnel chart.
+        Generated visualizations to analyze and showcase total sales, average sales, number of items sold, average rating, sales based on fat content, outlets size and outlet location using horizontal bar charts, line charts, pie charts and funnel chart.
 
 4) **Final Insights**:
 * Low fat content demonstrates the highest sales, reflecting a consistent demand for products within this category.
