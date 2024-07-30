@@ -30,4 +30,8 @@ visualization in Power BI.
 *  Medium-sized outlets are experiencing higher sales figures, which suggests a more efficient use of space, better customer reach. This trend highlights the need to re-evaluate the strategies employed in high-sized outlets, as optimizing their operations could potentially increase their sales performance.
 * Supermarket Type 1 boasts a high number of items sold and exceptional item visibility.
 * The success of Supermarket Type 1 highlights the importance of strategic inventory management and marketing efforts that could be replicated across other supermarket types to enhance overall performance.
+# Dashboard
+**Power BI**: [Link]()
+
+![image](https://github.com/user-attachments/assets/a18df2be-e32f-4966-a864-87906ac27d6c)
 
