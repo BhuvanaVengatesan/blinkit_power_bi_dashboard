@@ -31,7 +31,7 @@ visualization in Power BI.
 * Supermarket Type 1 boasts a high number of items sold and exceptional item visibility.
 * The success of Supermarket Type 1 highlights the importance of strategic inventory management and marketing efforts that could be replicated across other supermarket types to enhance overall performance.
 # Dashboard
-**Power BI**: [Link]()
+**Power BI**: [Link](https://github.com/BhuvanaVengatesan/blinkit_power_bi_dashboard/blob/main/Sales%20analyst%202024-07-30%2014-50-26.mp4)
 
 ![image](https://github.com/user-attachments/assets/a18df2be-e32f-4966-a864-87906ac27d6c)
 
